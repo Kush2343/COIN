@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "engines": {
+    "node":"20.x"
+  },
   "dependencies": {
     "@google-cloud/storage": "^7.7.0",
     "@infobip-api/sdk": "^0.3.2",
